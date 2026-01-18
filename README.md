@@ -1,7 +1,7 @@
-# Laborator 10 – Aplicație Spring Boot pentru gestiunea cărților
+# Aplicație Spring Boot pentru gestiunea cărților
 
 ## 📌 Descriere
-Această aplicație web a fost realizată în cadrul **Laboratorului 10** și implementează operațiile **CRUD** (Create, Read, Update, Delete) asupra unei tabele de cărți, folosind **Spring Boot**, **Spring Data JPA** și **Thymeleaf**.
+Această aplicație web implementează operațiile **CRUD** (Create, Read, Update, Delete) asupra unei tabele de cărți, folosind **Spring Boot**, **Spring Data JPA** și **Thymeleaf**.
 
 Aplicația permite:
 - afișarea listei de cărți
